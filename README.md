@@ -1,4 +1,4 @@
-<img width="1260" alt="Screenshot 2025-02-06 at 1 29 53 PM" src="https://github.com/user-attachments/assets/669b92b2-b983-49d3-970e-e9c48c8a9cba" /># Football-Analytics
+
 
 This project aims to develop an AI-powered system for detecting and tracking players, referees, and footballs in match footage using YOLO, a state-of-the-art deep learning-based object detection model. To enhance detection accuracy, I fine-tuned the model on a custom dataset tailored to football analytics.
 
@@ -13,6 +13,21 @@ This project integrates key concepts from computer vision, deep learning, and sp
 
 <img width="1260" alt="Screenshot 2025-02-06 at 1 29 53 PM" src="https://github.com/user-attachments/assets/bc418d49-94cc-412b-8f59-b61399bf4a02" />
 
+
+
+4# Models Used:
+
+The following modules are used in this project:
+
+YOLO: AI object detection model
+Kmeans: Pixel segmentation and clustering to detect t-shirt color
+Optical Flow: Measure camera movement
+Perspective Transformation: Represent scene depth and perspective
+Speed and distance calculation per player
+
+TO access to entire code of the project kindly access the below google drive link. In case the google drive link expires do contact me on my personal email address for access: m.rafay.ch@gmail.com
+
+Code Link: https://drive.google.com/drive/folders/1gOQMH1D1eHIo98Lkhg6rovicfrzEZPJG?usp=share_link
 
 
 
